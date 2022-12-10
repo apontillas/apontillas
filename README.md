@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apontillas
-- 👀 I’m interested in problem solving
+- 👀 Enjoys problem solving
 - 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on some web applications projects
+- 💞️ Let's collab!
 - 📫 How to reach me angelypontillas13@gmail.com
 
 <!---
