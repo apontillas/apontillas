@@ -2,7 +2,7 @@
 - 👀 Enjoys problem solving
 - 🌱 I’m currently learning full stack web development
 - 💞️ Let's collab!
-- 📫 How to reach me angelypontillas13@gmail.com
+- 📫 How to reach me angely.tukivakala@gmail.com
 
 <!---
 apontillas/apontillas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
